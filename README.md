@@ -1,4 +1,4 @@
-# REGRESION-LINEAL-SIMPLE_1
+# REGRESION-LINEAL-SIMPLE
 
 Predicción del precio de casas con REGRESIÓN LINEAL SIMPLE
 
